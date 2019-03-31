@@ -71,4 +71,8 @@ public class MainClass {
         }
     }
 
+    public static void gitWork () {
+        System.out.println("Git Worck");
+    }
+
 }

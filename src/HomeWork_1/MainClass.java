@@ -69,7 +69,6 @@ public class MainClass {
         } else {
             System.out.println(a + " год високосный");
         }
-
     }
 
 }

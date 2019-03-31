@@ -49,7 +49,7 @@ public class MainClass {
         }
     }
 
-    public static void positiveOrNegative (int a) {
+    public static void positiveOrNegative(int a) {
         System.out.println( a >= 0 ? a + " положительное число" : a + " отрицательное число");
 
     }
